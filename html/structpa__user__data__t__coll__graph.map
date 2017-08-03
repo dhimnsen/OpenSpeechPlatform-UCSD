@@ -1,0 +1,4 @@
+<map id="pa_user_data_t" name="pa_user_data_t">
+<area shape="rect" id="node2" href="$structosp__user__data__t.html" title="general data structure shared between client and C application " alt="" coords="5,5,126,31"/>
+<area shape="rect" id="node3" href="$structpa__aux__data__t.html" title="Struct that contains misc data passed to PortAudio. " alt="" coords="150,5,259,31"/>
+</map>

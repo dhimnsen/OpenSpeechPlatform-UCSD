@@ -33,6 +33,7 @@ This work is supported by Nation Institute of Health, NIH/NIDCD grant R01DC01543
     - [Setting Up Android](#setting-up-android)
     - [Working with the Android app](#working-with-the-android-app)
   - [OSP – MATLAB Documentation](#osp--matlab-documentation)
+- [API](#api)
 - [References](#references)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -287,6 +288,9 @@ The following files have been included with R01 OSP-MATLAB release:
 
 5.	Input Files: All the input sound files are 32kHz sampled. Add your custom input files at that sampling rate in the same folder.
 
+# API
+
+[Click Here for Open Speech Platform API](html/index.html)
 
 # References
 
