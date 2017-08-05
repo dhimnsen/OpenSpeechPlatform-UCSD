@@ -290,7 +290,7 @@ The following files have been included with R01 OSP-MATLAB release:
 
 # API
 
-[Click Here for Open Speech Platform API](http://openspeechplatform.ucsd.edu/downloads/Openspeechplatform_R2017a_V1_0.pdf)
+[Click Here for Open Speech Platform API](http://openspeechplatform.ucsd.edu/doxygen/osp__process_8c.html)
 
 # References
 
